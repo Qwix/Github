@@ -1,0 +1,10 @@
+References
+1. I looked up a java memory game on http://www.lizardpoint.com/fun/java/conc/Memory.html
+2. I asked Professor Baruch about how to fix an error I was getting involving static variables.
+3. I asked Nick Crast about how to change the icon on a butoon.
+4. I went online to the javadoc and found the method jbutton.setIcon(imageicon) which helped a lot.
+5. I went through prior labs and used the gridpanel setup for my project.
+6. I went online to the forums at www.dreamincode.net to find out how to open a second gui.
+7. I went online to the forums at www.programmersheaven.com to look up how to code to close the program.
+8. I asked Professor Baruch about how to hide a frame after I'm done with it.
+9. I emailed Professor Baruch about an error I was getting with I/O.  
